@@ -4,3 +4,4 @@ This project implements data structures in Java for review and learning purposes
 ## Data Structures
 - Stack (using linked lists)
 - Queue (using linked lists)
+- Binary Search Tree 
